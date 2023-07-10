@@ -13,6 +13,7 @@
 		CFFBA7602A5C4BF200C67526 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFFBA75F2A5C4BF200C67526 /* Preview Assets.xcassets */; };
 		CFFBA76A2A5C52AF00C67526 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = CFFBA7692A5C52AF00C67526 /* Alamofire */; };
 		CFFBA7702A5C5B7500C67526 /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFFBA76F2A5C5B7500C67526 /* UserView.swift */; };
+		CFFBA7722A5C5F1700C67526 /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFFBA7712A5C5F1700C67526 /* Api.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CFFBA75C2A5C4BF200C67526 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CFFBA75F2A5C4BF200C67526 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CFFBA76F2A5C5B7500C67526 /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
+		CFFBA7712A5C5F1700C67526 /* Api.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				CFFBA7582A5C4BF100C67526 /* Fetch_REST_API_DemoApp.swift */,
 				CFFBA75A2A5C4BF100C67526 /* ContentView.swift */,
 				CFFBA76F2A5C5B7500C67526 /* UserView.swift */,
+				CFFBA7712A5C5F1700C67526 /* Api.swift */,
 				CFFBA75C2A5C4BF200C67526 /* Assets.xcassets */,
 				CFFBA75E2A5C4BF200C67526 /* Preview Content */,
 			);
@@ -150,6 +153,7 @@
 			files = (
 				CFFBA75B2A5C4BF100C67526 /* ContentView.swift in Sources */,
 				CFFBA7702A5C5B7500C67526 /* UserView.swift in Sources */,
+				CFFBA7722A5C5F1700C67526 /* Api.swift in Sources */,
 				CFFBA7592A5C4BF100C67526 /* Fetch_REST_API_DemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
